@@ -1,0 +1,3 @@
+地址：git@github.com:mysummery/brsy.git
+项目地址：https://mysummery.github.io/brsy/trunk/static/wechat/src/index/shipin_index.html
+项目首页：https://mysummery.github.io/brsy/trunk/
